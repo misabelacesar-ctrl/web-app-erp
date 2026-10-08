@@ -1,0 +1,6 @@
+{
+  "name": "PCP Manufatura - Gestão e Controle de Produção",
+  "description": "Sistema integrado de Planejamento e Controle de Produção (PCP) e ERP industrial para pequenas manufaturas: Ficha técnica, matérias-primas, clientes, fornecedores, pedidos, ordens de produção e emissão técnica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
